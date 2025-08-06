@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Meu nome é Henrique César</h2>
+<h2 align="left">Olá 👋! Meu nome é Henrique Teixeira</h2>
 <p>Desenvolvedor .NET graduando em Engenharia de Software, com 2 anos de experiência no desenvolvimento de APIs REST, integrações com mensageria e bancos de dados relacionais e não relacionais. Familiaridade com AngularJS, práticas ágeis, Docker, cloud (AWS) e foco constante em aprendizado e evolução técnica.</p>
 
 ###
@@ -7,7 +7,7 @@
 <hr style="border: none; height: 1px; background-color: black;">
 <ul>
   <li>🎓 Graduando em Engenharia de Software na Unicesumar</li>
-  <li>📚 Estudando C#, .NET, Docker, RabbitMQ, Python (focado em IA) </li>
+  <li>📚 Estudando C#, .NET, ReactJS, Docker, RabbitMQ, Python (focado em IA) </li>
 </ul>
 
 ###
@@ -29,6 +29,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
