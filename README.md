@@ -1,5 +1,5 @@
 <h2 align="left">Olá 👋! Meu nome é Henrique Teixeira</h2>
-<p>Desenvolvedor .NET graduando em Engenharia de Software, com 2 anos de experiência no desenvolvimento de APIs REST, integrações com mensageria e bancos de dados relacionais e não relacionais. Familiaridade com AngularJS, práticas ágeis, Docker, cloud (AWS) e foco constante em aprendizado e evolução técnica.</p>
+<p>Desenvolvedor .NET graduando em Engenharia de Software, com 2 anos de experiência no desenvolvimento de APIs REST, integrações com mensageria e bancos de dados relacionais e não relacionais. Familiaridade com ReactJS, práticas ágeis, Docker, cloud (AWS) e foco constante em aprendizado e evolução técnica.</p>
 
 ###
 
